@@ -9,7 +9,7 @@ From February 2025 to September 2026 I was a junior software developer at Younde
 - [AI-SQL-ASSISTANT](https://github.com/anandmadhapan/AI-SQL-ASSISTANT): upload a CSV or Excel file and ask it questions in plain English. Gemini writes a SQL query, PostgreSQL runs it in a read-only transaction, and the answer comes back with a chart. FastAPI, SQLAlchemy, React, Tailwind.
 - [AI-POWERED-STUDENT-COURSE-ALLOCATION-SYSTEM](https://github.com/anandmadhapan/AI-POWERED-STUDENT-COURSE-ALLOCATION-SYSTEM): allocates course seats by marks, with category reservations and up to three ranked preferences per student. JWT login with admin and student roles, a dashboard, and a Gemini assistant that can only read allocation data.
 - [Final-Year-Project](https://github.com/anandmadhapan/Final-Year-Project): my final-year project, a student prototype. An Arduino sends pulse and heart-rate readings to a Flask app that estimates blood glucose with a Random Forest model.
-- [Music-Genre-Classification](https://github.com/anandmadhapan/Music-Genre-Classification): CNNs on mel spectrograms of the GTZAN dataset, built with TensorFlow and librosa.
+- [music-genre-classification-cnn](https://github.com/anandmadhapan/music-genre-classification-cnn): CNNs on mel spectrograms of the GTZAN dataset, built with TensorFlow and librosa.
 
 **Tools I use most:** Python, FastAPI, SQLAlchemy, PostgreSQL, React, JavaScript, Tailwind CSS, Git. Also Flask, scikit-learn and TensorFlow from college work.
 
