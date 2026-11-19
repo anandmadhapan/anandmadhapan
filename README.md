@@ -2,7 +2,7 @@
 
 Python developer in Bengaluru. I build FastAPI backends on PostgreSQL and SQLAlchemy, the React screens that sit on top of them, and more and more often, features that call an LLM.
 
-From February 2025 to September 2026 I was a junior software developer at Younder Bots, working on three products that client staff used every day: a hotel ERP, an HRMS with payroll, and an LMS. Day to day that meant REST and GraphQL APIs in FastAPI, MySQL and PostgreSQL schemas, role-based access for payroll data, React admin screens, and wiring the OpenAI and Gemini APIs into the company's chatbot product. That code is private; the repositories below are the ones I can share.
+From February 2025 to October 2026 I was a junior software developer at Younder Bots, working on three products that client staff used every day: a hotel ERP, an HRMS with payroll, and an LMS. Day to day that meant REST and GraphQL APIs in FastAPI, MySQL and PostgreSQL schemas, role-based access for payroll data, React admin screens, and wiring the OpenAI and Gemini APIs into the company's chatbot product. That code is private; the repositories below are the ones I can share.
 
 **Projects**
 
